@@ -11,7 +11,7 @@ import logging
 # This game object contains the initial game state.
 game = hlt.Game()
 # Respond with your name.
-game.ready("Themomento")
+game.ready("haheavy")
 
 while True:
     # Get the latest game state.
